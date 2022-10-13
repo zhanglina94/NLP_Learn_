@@ -1,4 +1,5 @@
 # Word2vec
+
 # FastText
 # GloVe
 # textRNN &text CNN
