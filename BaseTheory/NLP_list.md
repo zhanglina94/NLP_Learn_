@@ -1,4 +1,7 @@
 # Word2vec
+- CBOW:Conntinuous bag-of-word model 
+- Skip-gram
+- 
 
 # FastText
 # GloVe
