@@ -8,7 +8,7 @@
 - co-occurrence probabilities Matrix
 
 # textRNN &text CNN
-# seq2seq
+# seq2seq& Encoder-Decoder 
 # Attention Mechannism
 # Transformer Model
 # BERT
